@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527598883515",
+    "project_id": "age-docs",
+    "storage_bucket": "age-docs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527598883515:android:b95969b1ed1b0225594f9e",
+        "android_client_info": {
+          "package_name": "Age.Dogs.R34l"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX9GLWk1pPl2-TYYTyXrQNFwlZQ1c1Ax4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

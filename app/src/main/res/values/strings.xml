@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Age Dogs</string>
+    <string name="welcome_title">Bienvenido a Age Dogs</string>
+    <string name="welcome_subtitle">Tu plataforma integral para el cuidado, salud y servicios para tu mascota.</string>
+    <string name="welcome_get_started">Comenzar</string>
+    <string name="loading_text">Cargando&#8230;</string>
+    <string name="error_generic">Ha ocurrido un error inesperado. Por favor, reintenta.</string>
+    <string name="retry_button">Reintentar</string>
 </resources>

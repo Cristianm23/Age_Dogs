@@ -1,0 +1,54 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Grupo centrado y escalado al área segura (72x72dp) para evitar que se vea gigantesco en la Splash Screen -->
+    <group
+        android:scaleX="0.60"
+        android:scaleY="0.60"
+        android:pivotX="54"
+        android:pivotY="54">
+
+        <!-- Outer Badge Ring in Sandy Yellow -->
+        <path
+            android:fillColor="#E6C27A"
+            android:pathData="M54,12 C77.2,12 96,30.8 96,54 C96,77.2 77.2,96 54,96 C30.8,96 12,77.2 12,54 C12,30.8 30.8,12 54,12 Z" />
+
+        <!-- Outer Badge Core in Primary Brown -->
+        <path
+            android:fillColor="#5D4037"
+            android:pathData="M54,16 C74.9,16 92,33.1 92,54 C92,74.9 74.9,92 54,92 C33.1,92 16,74.9 16,54 C16,33.1 33.1,16 54,16 Z" />
+
+        <!-- Paw Toe 1 (Top Left) -->
+        <path
+            android:fillColor="#E6C27A"
+            android:pathData="M37,33 C34.2,33 32,36.1 32,40 C32,43.9 34.2,47 37,47 C39.8,47 42,43.9 42,40 C42,36.1 39.8,33 37,33 Z" />
+
+        <!-- Paw Toe 2 (Top Mid-Left) -->
+        <path
+            android:fillColor="#E6C27A"
+            android:pathData="M48,27 C45.2,27 43,30.1 43,34 C43,37.9 45.2,41 48,41 C50.8,41 53,37.9 53,34 C53,30.1 50.8,27 48,27 Z" />
+
+        <!-- Paw Toe 3 (Top Mid-Right) -->
+        <path
+            android:fillColor="#E6C27A"
+            android:pathData="M60,27 C57.2,27 55,30.1 55,34 C55,37.9 57.2,41 60,41 C62.8,41 65,37.9 65,34 C65,30.1 62.8,27 60,27 Z" />
+
+        <!-- Paw Toe 4 (Top Right) -->
+        <path
+            android:fillColor="#E6C27A"
+            android:pathData="M71,33 C68.2,33 66,36.1 66,40 C66,43.9 68.2,47 71,47 C73.8,47 76,43.9 76,40 C76,36.1 73.8,33 71,33 Z" />
+
+        <!-- Main Pad Base -->
+        <path
+            android:fillColor="#E6C27A"
+            android:pathData="M54,46 C42,46 36,54 36,65 C36,73 43,79 54,79 C65,79 72,73 72,65 C72,54 66,46 54,46 Z" />
+
+        <!-- Central Heart Pad in Ferrari Red -->
+        <path
+            android:fillColor="#D40000"
+            android:pathData="M54,72 L50.5,68.8 C42,61 38,57.5 38,53 C38,49.5 40.5,47 44,47 C46,47 48,48 49.5,49.5 L54,54 L58.5,49.5 C60,48 62,47 64,47 C67.5,47 70,49.5 70,53 C70,57.5 66,61 57.5,68.8 L54,72 Z" />
+    </group>
+</vector>
